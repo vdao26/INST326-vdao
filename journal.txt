@@ -15,3 +15,13 @@ Other than that, I have not used AI in this class as I am
 trying to review Python by myself because I have some experience with it.
 I want to test my memory of what I learned in other Python classes 
 and INST126.
+
+Week 2
+This week, I used AI to reinforce my knowledge of for loops and if/else statements.
+I am familiar with both but I struggle to understand for loops more. Here is the link to what I asked
+Claude AI. I do not use while loops often so I also wanted to see what was the difference between a for loop and while 
+loop. https://claude.ai/share/ced870ee-a7b5-49be-9e3c-1f56beed6b95
+
+While I was working on Week 2 exercises, I found myself using while loops and it helped me practice what I learned from Claude.
+As in for for loops, I think it depends on what the prompt is asking. Sometimes it can be a bit confusing but once I disect the prompt
+I know how the for loop work.
