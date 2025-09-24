@@ -25,3 +25,15 @@ loop. https://claude.ai/share/ced870ee-a7b5-49be-9e3c-1f56beed6b95
 While I was working on Week 2 exercises, I found myself using while loops and it helped me practice what I learned from Claude.
 As in for for loops, I think it depends on what the prompt is asking. Sometimes it can be a bit confusing but once I disect the prompt
 I know how the for loop work.
+
+
+Week 3
+This week we learned about writing functions, which I have prior knowledge because I took INST126 last year, but I was still a little confused about the return statement and where to write it in the function. I used Claude.AI to help explain what the return statement does https://claude.ai/share/49ad0101-5258-4450-adb8-c431f218d089 
+
+I learned that return statements can have multiple of them in a function but only one executes each time the function is called. Something I knew from INST126 is that the return statement should be at the end of the function. 
+
+
+
+
+
+
