@@ -28,9 +28,27 @@ I know how the for loop work.
 
 
 Week 3
-This week we learned about writing functions, which I have prior knowledge because I took INST126 last year, but I was still a little confused about the return statement and where to write it in the function. I used Claude.AI to help explain what the return statement does https://claude.ai/share/49ad0101-5258-4450-adb8-c431f218d089 
+This week we learned about writing functions, which I have prior knowledge because I took INST126 last year, 
+but I was still a little confused about the return statement and where to write it in the function. I
+used Claude.AI to help explain what the return statement does https://claude.ai/share/49ad0101-5258-4450-adb8-c431f218d089 
 
-I learned that return statements can have multiple of them in a function but only one executes each time the function is called. Something I knew from INST126 is that the return statement should be at the end of the function. 
+I learned that return statements can have multiple of them in a function but only one executes each time the function is called. 
+Something I knew from INST126 is that the return statement should be at the end of the function. 
+
+Week 4
+This week we started our unit on Classes and writing them including attributes and methods for it. 
+While I was working on Week 4 excerises, I saw that some of the __init__ method had instance variables that
+were not stated in the parameters. I went to ask Claude.AI about this https://claude.ai/share/13f3c9f4-1bb8-46c2-830b-e5963f7b8c38
+
+According to Claude, there are several reasons why these attributes might not be in the parameters. 
+The attributes could be calculated from the input parameters. Claude gave an example of calculating area. 
+Because width and height are the input parameters, when we are assigning area, it does not need to be 
+in the parameters because we do not need input from the user. 
+
+It is derived from the parameters. Claude also stated attributes with the same value for every instance. 
+For example, count would be in the parameter because it will always start at 0.
+
+__init__ parameters should be what the user needs to provide.
 
 
 
