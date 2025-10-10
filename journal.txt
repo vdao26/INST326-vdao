@@ -50,6 +50,11 @@ For example, count would be in the parameter because it will always start at 0.
 
 __init__ parameters should be what the user needs to provide.
 
+Week 5
+This week, I learned about protected and private attributes in the __init__ method. Before INST327, I had not used protected or private attributes or knew how to use them. To get a sense of them and how to use them in this week's exercise, I asked Claude.AI what are the differences between the two 
+https://claude.ai/share/39aba95e-946b-4e73-bbd1-48d3cf4ec5d5 Protected attributes use a single _ and is intended for internal use within the class. Private attributes use the double __ and is used to prevent accidental name collisions in inheritance hierarchies.
+
+In Python, we use getters and setters to get an attribute value and set it. I asked Claude to explain to me how to use them https://claude.ai/share/39aba95e-946b-4e73-bbd1-48d3cf4ec5d5. I learned that the getter for Python is @property. We usually use getters and setters for private/protected attributes with encapsulation and make sure we validate our values. 
 
 
 
