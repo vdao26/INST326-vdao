@@ -56,6 +56,15 @@ https://claude.ai/share/39aba95e-946b-4e73-bbd1-48d3cf4ec5d5 Protected attribute
 
 In Python, we use getters and setters to get an attribute value and set it. I asked Claude to explain to me how to use them https://claude.ai/share/39aba95e-946b-4e73-bbd1-48d3cf4ec5d5. I learned that the getter for Python is @property. We usually use getters and setters for private/protected attributes with encapsulation and make sure we validate our values. 
 
+Week 6
+This week's topic covered classes in python and different methods such as static, class, and instance. I had previously worked with classes in Java, but did not really understand the full concept. I used Claude.AI to help me explain the differences between static and class methods https://claude.ai/share/2cd52e37-998a-4bed-a132-15d5feaf86c9 These are special types of methods that belong to the class itself and not the instance of the class. Class methods are defined as @classmethod
+and use the cls parameter instead of self. 
+
+Static methods are also defined as @staticmethod and don't receive any implicit first argument (no self or cls). Some uses for static methods are
+utility functions that don't need to access class or instance data. Some differences with static and class methods:
+-Class methods receive the class as the first argument and can access/modify class state
+-Static methods don't receive any implicit arguments and can't access class or instance state directly
+
 
 
 
