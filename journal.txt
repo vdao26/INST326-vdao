@@ -65,6 +65,11 @@ utility functions that don't need to access class or instance data. Some differe
 -Class methods receive the class as the first argument and can access/modify class state
 -Static methods don't receive any implicit arguments and can't access class or instance state directly
 
+Week 7
+This week's topic covered error handling and testing in Python. One testing framework I learned was unittest. To understand unittest further, I used Claude AI to explain to me https://claude.ai/share/980480c2-fd53-4df0-a699-64c05a3467fb 
+
+Unittest is a built-in Python test that helps you write and run automated tests for the program. There is a test case, which you create a class and each test method should start with test_. In these test methods, you need to use assertions like assertEqual or assertTrue. At the end, you will run the test using main().   
+
 
 
 
