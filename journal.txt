@@ -70,6 +70,11 @@ This week's topic covered error handling and testing in Python. One testing fram
 
 Unittest is a built-in Python test that helps you write and run automated tests for the program. There is a test case, which you create a class and each test method should start with test_. In these test methods, you need to use assertions like assertEqual or assertTrue. At the end, you will run the test using main().   
 
+Week 8
+This week's topic covered inheritance. I have learned about this concept in Java, but I needed to refresh my memory. I used Claude.AI
+to remind me how inheritance works https://claude.ai/share/84e76924-4b50-4719-a6b6-775bd9d29b52
+Inheritance is an OOP concept that lets a class (child) inherits attributes and methods from another class (parent). This helps with code reusability and a hierarchial relationship between classes. The super() function allows you to call methods from the parent class and useful in the __init__ method. 
+
 
 
 
