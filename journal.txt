@@ -75,7 +75,12 @@ This week's topic covered inheritance. I have learned about this concept in Java
 to remind me how inheritance works https://claude.ai/share/84e76924-4b50-4719-a6b6-775bd9d29b52
 Inheritance is an OOP concept that lets a class (child) inherits attributes and methods from another class (parent). This helps with code reusability and a hierarchial relationship between classes. The super() function allows you to call methods from the parent class and useful in the __init__ method. 
 
-
+Week 9
+This week we learned about polymorphism and abstract classes. I am not too familiar with working on these concepts so I used Claude
+AI explain this week's exercises and how abstract classes work. Abstract classes are instantlated direct and designed to be inherited by other classes. 
+It is like a blueprint or template to define a common goal for a group of related classes. In Python, we use ABC (abstract base class) module to implement these classes. 
+Before every abstract method, you need to put @abstractmethod. Methods that are marked with @abstractmethod must be implemented by subclasses.
+For example, we have our abstract class Animal. Its subclasses would be Dog and Cat. https://claude.ai/share/d05de0c4-c094-471a-80b6-1348e8de3334
 
 
 
