@@ -82,5 +82,21 @@ It is like a blueprint or template to define a common goal for a group of relate
 Before every abstract method, you need to put @abstractmethod. Methods that are marked with @abstractmethod must be implemented by subclasses.
 For example, we have our abstract class Animal. Its subclasses would be Dog and Cat. https://claude.ai/share/d05de0c4-c094-471a-80b6-1348e8de3334
 
+Week 10
+This week we looked more closely into special methods such as (__str__, __repr__, __len__, __iter__, __contains__, __eq__, ordering). I am not familiar with these methods because I do not use them often. https://claude.ai/share/431b485e-d7d5-4705-a1ab-d0260f17e9b5
+
+These methods help us define how objects in our classes behave with built-in Python operations. 
+__str__ - String representation: human readable string, easy for users to read
+__repr__ - String representation for developers: used for debugging and is ambiguous
+__len__ - Length of Object: uses len() and returns the length of an object
+__iter__ - Make objects iterable: returns an iterator object, allows objects to be used in loops
+__contains__ - membership testing: defines behaviors for the in operator
+__eq__ - equality comparison: defines behavior for the equality operator ==
+ordering methods define behaviors for comparison operators.
+
+Special methods help make our classes easy for us to debug and follow through. They follow Python conventions and works well with built-in Python functions.
+
+
+
 
 
