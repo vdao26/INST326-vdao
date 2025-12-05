@@ -96,7 +96,9 @@ ordering methods define behaviors for comparison operators.
 
 Special methods help make our classes easy for us to debug and follow through. They follow Python conventions and works well with built-in Python functions.
 
-
-
+Week 12
+This week we are learning about testing and system architecture. I was wondering the differences between unit, system, and integration testing so I asked Claude.AI to explain. https://claude.ai/share/11f8d591-b703-4aa3-b84b-2de1d1eacd85 
+Unit testing focuses on a single function, method or class. Integration testing tests how multiple components work together. It also verifies that different modules/classes interact correctly.
+System testing tests the complete application flow and validates the entire system from start to finish.
 
 
