@@ -101,4 +101,7 @@ This week we are learning about testing and system architecture. I was wondering
 Unit testing focuses on a single function, method or class. Integration testing tests how multiple components work together. It also verifies that different modules/classes interact correctly.
 System testing tests the complete application flow and validates the entire system from start to finish.
 
-
+Week 13
+This week is the final week of class. Me and my team for the semester project used ChatGPT to outline our presentation and made
+sure everything that was required was in the presentation. https://chatgpt.com/share/6939d4c2-4a40-8006-86b8-bcb2c86be939
+We used this outline and incorporated it with the python files we have and added more detail into our classes/OOP components in our presentation.
